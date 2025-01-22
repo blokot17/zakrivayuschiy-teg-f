@@ -129,7 +129,7 @@
 
 @supports (text-stroke: 1px var(--background-color)) {
   
-  .label{
+  .label {
     text-stroke: 1px var(--background-color)
   }
 } 
@@ -269,7 +269,7 @@ body:has(.pop-up[open]) {
   line-height: 21px;
 }
 
-.button_pop-up .button__text{
+.button_pop-up .button__text {
   text-transform: uppercase;
 }
 
@@ -287,5 +287,4 @@ body:has(.pop-up[open]) {
     padding: 30px 40px;
     inline-size: 341px;
   }  
-
 }
