@@ -1,1 +1,1 @@
-https://blokot17.github.io/zakrivayuschiy-teg-f/
+https://github.com/blokot17/zakrivayuschiy-teg-f.git
