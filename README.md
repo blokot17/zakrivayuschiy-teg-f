@@ -1,1 +1,1 @@
-https://github.com/blokot17/slozhno-sosredotochitsya
+https://blokot17.github.io/zakrivayuschiy-teg-f/
