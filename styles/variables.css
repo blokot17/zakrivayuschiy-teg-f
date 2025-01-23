@@ -4,12 +4,14 @@
     --background-color: #fff;
     --detail-color: #000;
 
+    --text-shadow: #fff;
+
     --main-color: #000;
     --button-color: #fff;
     --main-bg-color: #fff;
 
     --main-font: 'Inter-Variable', sans-cerf;
-    --accent-font: 'PressStart2P-Regular',  fantasy;
+    --accent-font: 'PressStart2P',  fantasy;
     --wgth-text: 400;
     --wgth-title: 700;
 
